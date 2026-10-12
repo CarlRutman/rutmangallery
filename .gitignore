@@ -1,0 +1,5 @@
+.DS_Store
+tools/*.json
+tools/venv/
+tools/source_notes/
+__pycache__/
